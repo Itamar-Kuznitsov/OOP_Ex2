@@ -2,6 +2,7 @@
 
 ## Description
 This is the third task in Object-Oriented Programming course (OOP).
+
 There are two parts in this task: Ex2_1 & Ex2_2.
 
 __Ex2_1:__ 
@@ -15,7 +16,17 @@ __Ex2_2:__
    Callable<V> and a Type, passed as arguments.
 
 In this program we used S.O.L.I.D principles 
+
 and we added Test class for checking the reliability and the efficiency of the code.
+
+
+
+
+### UML diagram:
+
+![Ex2_2 UML](https://user-images.githubusercontent.com/72256735/212062441-e37902a5-83c2-4ad6-888b-dee776209327.png)
+
+
 
 ## Getting Started
 ### Dependencies
