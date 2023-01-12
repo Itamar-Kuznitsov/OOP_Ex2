@@ -22,10 +22,13 @@ and we added Test class for checking the reliability and the efficiency of the c
 
 
 
-### UML diagram:
+### UML diagrams:
 
 ![Ex2_2 UML](https://user-images.githubusercontent.com/72256735/212062441-e37902a5-83c2-4ad6-888b-dee776209327.png)
 
+
+
+![image](https://user-images.githubusercontent.com/72256735/212135706-c5e191f4-190a-441a-af82-8444db41e330.png)
 
 
 ## Getting Started
