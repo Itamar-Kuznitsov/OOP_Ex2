@@ -90,7 +90,10 @@ __Using Thread Pool:__
  ![image](https://user-images.githubusercontent.com/72256735/212047772-5fc169af-434b-4358-984d-9c236f1bde7b.png)
 
 In conclusion, as we expected, with 500 files there is a big difference between the normal method and Thread/ThreadPool methods. With 5000 files there is significant difference.
- 
+Compared to Thread Pool and Thread, the times are not clear. In the short plan Thread Pool is more efficient and in the long plan using Thread is more efficient.
+In our opinion, this difference happens due to the processing power of the computer. 
+Because when there are many operations in relation to the size of the pool, then the queue is larger and the number of tasks that are performed is small.
+Therefore it seems that Thread Pool is slower because the number of active threads is smaller than execution by normal Thread. 
  
  
 ## Authors
